@@ -1,0 +1,320 @@
+{
+  "RC_B2": {
+    "message": "Apri in una nuova finestra"
+  },
+  "RC_B3": {
+    "message": "Apri in una finestra riservata"
+  },
+  "RC_B4": {
+    "message": "Taglia"
+  },
+  "RC_B5": {
+    "message": "Copia"
+  },
+  "RC_B6": {
+    "message": "Modifica segnalibro"
+  },
+  "RC_B7": {
+    "message": "Cancella segnalibro"
+  },
+  "RC_D1": {
+    "message": "Espandi tutto"
+  },
+  "RC_D2": {
+    "message": "Contrai tutto"
+  },
+  "RC_D3": {
+    "message": "Ricerca (senza albero cartelle)"
+  },
+  "RC_D4": {
+    "message": "Ricerca (con albero cartelle)"
+  },
+  "RC_EB2": {
+    "message": "Salva"
+  },
+  "RC_EF1": {
+    "message": "Nome cartella"
+  },
+  "RC_EF3": {
+    "message": "Cancella"
+  },
+  "RC_F1": {
+    "message": "Crea segnalibro all'interno"
+  },
+  "RC_F2": {
+    "message": "Crea segnalibro subito dopo"
+  },
+  "RC_F3": {
+    "message": "Nuova cartella all'interno"
+  },
+  "RC_F4": {
+    "message": "Nuova cartella subito dopo"
+  },
+  "RC_F5": {
+    "message": "Apri intera cartella"
+  },
+  "RC_F10": {
+    "message": "Modifica nome cartella"
+  },
+  "RC_F11": {
+    "message": "Cancella"
+  },
+  "RC_M1": {
+    "message": "Nuovo segnalibro"
+  },
+  "RC_M2": {
+    "message": "Nuova cartella"
+  },
+  "RC_M3": {
+    "message": "Apri segnalibro"
+  },
+  "RC_M8": {
+    "message": "Incolla"
+  },
+  "RC_P1": {
+    "message": "Nuovo segnalibro"
+  },
+  "RC_R1": {
+    "message": "Annulla cancellazione"
+  },
+  "RC_S1": {
+    "message": "Apri selezionati"
+  },
+  "RC_S6": {
+    "message": "Cancella selezionati"
+  },
+  "RC_SP": {
+    "message": "Nuovo separatore"
+  },
+  "RC_T1": {
+    "message": "Svuota cestino"
+  },
+  "c10": {
+    "message": "Conferma l'apertura di 10 o più schede"
+  },
+  "changelog": {
+    "message": "Changelog"
+  },
+  "cl": {
+    "message": "Chiudi"
+  },
+  "closeF": {
+    "message": "Chiudi le altre cartelle"
+  },
+  "closeWin": {
+    "message": "chiudi l'estensione quando apri un segnalibro"
+  },
+  "credits": {
+    "message": "Credits"
+  },
+  "ctrlC": {
+    "message": "Apri un segnalibro in una nuova scheda usando CTRL + click"
+  },
+  "doAc": {
+    "message": "Apri i segnalibri trascinandoli nella scheda attiva (si aprirà una scheda in background)"
+  },
+  "donate": {
+    "message": "Donazioni"
+  },
+  "dupe": {
+    "message": "Nessun segnalibro duplicato"
+  },
+  "dupeBkm": {
+    "message": " segnalibri duplicati"
+  },
+  "dupeMove": {
+    "message": "Spostare nel cestino?"
+  },
+  "ex1": {
+    "message": "Esporta i segnalibri di Opera ed il loro ordinamento"
+  },
+  "ex2": {
+    "message": "Esporta in HTML"
+  },
+  "ex3": {
+    "message": "Esporta i segnalibri di Opera, il loro ordinamento e le favicons"
+  },
+  "ex4": {
+    "message": "Esporta insieme alle favicons"
+  },
+  "ex5": {
+    "message": "Importa segnalibri e impostazioni"
+  },
+  "ex6": {
+    "message": "Importa"
+  },
+  "folderChildren": {
+    "message": "Mostra il numero di elementi contenuti nella cartella"
+  },
+  "how_to": {
+    "message": "Guida - How to..."
+  },
+  "kbs2": {
+    "message": "Utilizzo della tastiera"
+  },
+  "li1": {
+    "message": "Tieni premuto CTRL o SHIFT per selezionare i segnalibri senza aprirli"
+  },
+  "li2": {
+    "message": "Applicabile solo ai segnalibri selezionati"
+  },
+  "li3": {
+    "message": "Con l'opzione attiva, per selezionare più segnalibri usa CTRL+SHIFT+click"
+  },
+  "li4": {
+    "message": "Quando apri più segnalibri, l'ultimo creato sarà quello attivo"
+  },
+  "li5": {
+    "message": "Non applicabile se si apre il segnalibro cliccando sulla rotella del mouse, trascinandolo fuori o aprendolo dal menu contestuale"
+  },
+  "mv1": {
+    "message": "Sposta nel cestino i segnalibri duplicati"
+  },
+  "mv2": {
+    "message": "Le scelte rapide e il cestino non saranno influenzati."
+  },
+  "mv3": {
+    "message": "Le priorità sono: barra dei preferiti, cartelle, non classificati, altro."
+  },
+  "mv4": {
+    "message": "Se un segnalibro duplicato si trova nella barra dei preferiti e tra i non classificati, sarà rimosso dal gruppo dei non classificati."
+  },
+  "mv5": {
+    "message": "Duplicati"
+  },
+  "mv6": {
+    "message": "Unisci le cartelle duplicate"
+  },
+  "my_addons": {
+    "message": "I miei addons"
+  },
+  "npp": {
+    "message": "Tutto il codice è stato scritto con "
+  },
+  "obsc": {
+    "message": "Apri i segnalibri nella scheda corrente con un CLICK SINGOLO"
+  },
+  "op": {
+    "message": "Opera_bookmarks.html"
+  },
+  "opis": {
+    "message": "Un gestore di segnalibri nella tua sidebar"
+  },
+  "pnink": {
+    "message": "Tutti gli elementi grafici sono stati creati con "
+  },
+  "pr_10": {
+    "message": "Sei sicuro di voler aprire "
+  },
+  "pr_10_": {
+    "message": " schede?"
+  },
+  "rcC": {
+    "message": "Tasto destro -> COPIA copierà negli appunti l'URL del segnalibro"
+  },
+  "recent": {
+    "message": "Segnalibri recenti"
+  },
+  "reveal": {
+    "message": "rivela posizione in albero cartelle"
+  },
+  "sUrl": {
+    "message": "Mostra l'URL in una finestra pop-up (tooltip)"
+  },
+  "set_sp1": {
+    "message": "Spessore dei separatori"
+  },
+  "set_sp2": {
+    "message": "Spazio tra i separatori (prima e dopo)"
+  },
+  "set_sp3": {
+    "message": "Colore dei separatori (clicca per cambiare)"
+  },
+  "settings": {
+    "message": "Impostazioni"
+  },
+  "sort_m": {
+    "message": "Ordina alfabeticamente"
+  },
+  "ss": {
+    "message": "Aggiungi tutte le schede ai segnalibri"
+  },
+  "st3": {
+    "message": "Ordina alfabeticamente all'interno"
+  },
+  "stats1": {
+    "message": "Statistiche di base dei segnalibri"
+  },
+  "stats2": {
+    "message": "Statistiche"
+  },
+  "theme": {
+    "message": "Tema scuro"
+  },
+  "theme_": {
+    "message": "Tema chiaro"
+  },
+  "today": {
+    "message": "Oggi"
+  },
+  "translators": {
+    "message": "Traduttori:"
+  },
+  "ud": {
+    "message": "Data sconosciuta"
+  },
+  "v7sess": {
+    "message": "Salva la sessione in 'V7 Sessions', se esistente"
+  },
+  "w1": {
+    "message": "cartelle primarie"
+  },
+  "w2": {
+    "message": "segnalibri"
+  },
+  "w3": {
+    "message": "cartelle"
+  },
+  "zoom": {
+    "message": "Zoom"
+  },
+  "showUns": {
+    "message": "Mostra nella toolbar superiore i segnalibri non classificati invece di quelli recenti"
+  },
+  "li7": {
+    "message": "In questo caso, i segnalibri recenti saranno mostrati nel menu"
+  },
+  "vo": {
+    "message": "Impostazioni visuali"
+  },
+  "bo": {
+    "message": "Impostazioni di funzionamento dell'estensione"
+  },
+  "bkmColl": {
+    "message": "Collezione_Segnalibri.html"
+  },
+  "expColl": {
+    "message": "Esporta Collezione"
+  },
+  "srt_t": {
+    "message": "per Titolo"
+  },
+  "srt_d": {
+    "message": "per Data"
+  },
+  "srt_do": {
+    "message": "per Dominio"
+  },
+  "searchEnter": {
+    "message": "Search with Enter"
+  },
+  "li8": {
+    "message": "Search will trigger only when Enter key is pressed (minimum 2 characters)"
+  },
+  "theme2": {
+    "message": "Applica il tema scuro al pannello ed agli altri elementi"
+  },
+  "li6": {
+    "message": "Funziona solo in combinazione con il tema scuro"
+  }
+}

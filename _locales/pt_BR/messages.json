@@ -1,0 +1,293 @@
+{
+    "RC_B2": {
+        "message": "abrir em nova janela"
+    },
+    "RC_B3": {
+        "message": "abrir em modo privado"
+    },
+    "RC_B4": {
+        "message": "cortar"
+    },
+    "RC_B5": {
+        "message": "copiar"
+    },
+    "RC_B6": {
+        "message": "editar marcador"
+    },
+    "RC_B7": {
+        "message": "deletar marcador"
+    },
+    "RC_D1": {
+        "message": "Expand all"
+    },
+    "RC_D2": {
+        "message": "Collapse all"
+    },
+    "RC_D3": {
+        "message": "Flat search"
+    },
+    "RC_D4": {
+        "message": "Tree search"
+    },
+    "RC_EB2": {
+        "message": "salvar"
+    },
+    "RC_EF1": {
+        "message": "nome da pasta"
+    },
+    "RC_EF3": {
+        "message": "cancelar"
+    },
+    "RC_F1": {
+        "message": "favoritar dentro"
+    },
+    "RC_F2": {
+        "message": "favoritar depois"
+    },
+    "RC_F3": {
+        "message": "nova pasta interna"
+    },
+    "RC_F4": {
+        "message": "nova pasta posterior"
+    },
+    "RC_F5": {
+        "message": "abrir da pasta"
+    },
+    "RC_F10": {
+        "message": "editar nome da pasta"
+    },
+    "RC_F11": {
+        "message": "deletar"
+    },
+    "RC_M1": {
+        "message": "novo marcador"
+    },
+    "RC_M2": {
+        "message": "nova pasta"
+    },
+    "RC_M3": {
+        "message": "abrir marcador"
+    },
+    "RC_M8": {
+        "message": "colar"
+    },
+    "RC_P1": {
+        "message": "novo marcador"
+    },
+    "RC_R1": {
+        "message": "Undo delete"
+    },
+    "RC_S1": {
+        "message": "abrir selecionado"
+    },
+    "RC_S6": {
+        "message": "deletar selecionado"
+    },
+    "RC_SP": {
+        "message": "separador"
+    },
+    "RC_T1": {
+        "message": "esvaziar lixeira"
+    },
+    "c10": {
+        "message": "confirmar ao abrir 10 ou mais guias"
+    },
+    "changelog": {
+        "message": "melhorias"
+    },
+    "cl": {
+        "message": "Close"
+    },
+    "closeF": {
+        "message": "Close other folders"
+    },
+    "closeWin": {
+        "message": "close app when opening bookmark"
+    },
+    "credits": {
+        "message": "créditos"
+    },
+    "ctrlC": {
+        "message": "abrir favorito em nova guia ativa com CTRL + clique"
+    },
+    "doAc": {
+        "message": "abrir marcadores com ARRASTAR-PARA-FORA em nova guia ativa (padrăo é nova guia em segundo plano)"
+    },
+    "donate": {
+        "message": "Donate"
+    },
+    "dupe": {
+        "message": "No duplicate bookmarks"
+    },
+    "dupeBkm": {
+        "message": " duplicate bookmarks"
+    },
+    "dupeMove": {
+        "message": "Move it to trash?"
+    },
+    "ex1": {
+        "message": "exportar a árvore de marcadores do Opera"
+    },
+    "ex2": {
+        "message": "exportar para HTML"
+    },
+    "ex3": {
+        "message": "exportar a árvore de marcadores do Opera com favicons"
+    },
+    "ex4": {
+        "message": "exportar com favicons"
+    },
+    "ex5": {
+        "message": "Importar marcadores e configurações"
+    },
+    "ex6": {
+        "message": "Importar"
+    },
+    "folderChildren": {
+        "message": "Show folder info with number of children"
+    },
+    "how_to": {
+        "message": "manual"
+    },
+    "kbs2": {
+        "message": "Keyboard navigation"
+    },
+    "li1": {
+        "message": "pressionar CTRL ou SHIFT para selecionar marcador(es) sem abrí-los"
+    },
+    "li2": {
+        "message": "apenas marcadores selecionados, năo aqueles nas pastas selecionadas"
+    },
+    "li3": {
+        "message": "nesse caso, para selecionar mais ítens use CTRL+SHIFT+clique"
+    },
+    "li4": {
+        "message": "ao abrir vários marcadores, o último criado será o ativo"
+    },
+    "li5": {
+        "message": "This doesn't apply to bookmark middle-click, drag-out or opening from context menu"
+    },
+    "mv1": {
+        "message": "mover os marcadores duplicados para lixeira"
+    },
+    "mv2": {
+        "message": "Speed Dial e Lixeira năo serăo afetados."
+    },
+    "mv3": {
+        "message": "Prioridades: Barra de Marcadores, Minhas Pastas, Năo Ordenados, Outros."
+    },
+    "mv4": {
+        "message": "os marcadores duplicados da Barra de Marcadores e Năo Ordenados, serăo removidos para Năo Ordenados."
+    },
+    "mv5": {
+        "message": "duplicados"
+    },
+    "mv6": {
+        "message": "mesclar pastas duplicadas"
+    },
+    "my_addons": {
+        "message": "meus add-ons"
+    },
+    "npp": {
+        "message": "toda codificaçăo feita no "
+    },
+    "obsc": {
+        "message": "abrir o marcador na atual guia com CLIQUE ÚNICO"
+    },
+    "op": {
+        "message": "Opera_bookmarks.html"
+    },
+    "opis": {
+        "message": "gerenciador de marcadores da barra lateral"
+    },
+    "pnink": {
+        "message": "todos os gráficos feitos com "
+    },
+    "pr_10": {
+        "message": "Are you sure you want to open "
+    },
+    "pr_10_": {
+        "message": " tabs?"
+    },
+    "rcC": {
+        "message": "botăo direito copia inclusive as URL's dos marcadores para a área de transferęncia"
+    },
+    "recent": {
+        "message": "indicadores recentes"
+    },
+    "reveal": {
+        "message": "Reveal in bookmarks"
+    },
+    "sUrl": {
+        "message": "mostre a url nas dicas de ferramentas"
+    },
+    "set_sp1": {
+        "message": "Separators thickness"
+    },
+    "set_sp2": {
+        "message": "Separators spacing (above and under)"
+    },
+    "set_sp3": {
+        "message": "Separators color (click to change)"
+    },
+    "settings": {
+        "message": "ajustes"
+    },
+    "sort_m": {
+        "message": "Sort this panel"
+    },
+    "ss": {
+        "message": "favorite todas guias"
+    },
+    "st3": {
+        "message": "classificar"
+    },
+    "stats1": {
+        "message": "estatisticas basicas dos marcadores"
+    },
+    "stats2": {
+        "message": "estatisticas"
+    },
+    "theme": {
+        "message": "Dark theme"
+    },
+    "theme_": {
+        "message": "Light theme"
+    },
+    "today": {
+        "message": "Today"
+    },
+    "translators": {
+        "message": "Tradutores:"
+    },
+    "ud": {
+        "message": "Unknown date"
+    },
+    "v7sess": {
+        "message": "Save session in 'V7 Sessions', if existing"
+    },
+    "w1": {
+        "message": "Roots"
+    },
+    "w2": {
+        "message": "bookmarks"
+    },
+    "w3": {
+        "message": "folders"
+    },
+    "zoom": {
+        "message": "Zoom"
+    },
+  "showUns": {
+    "message": "Show Unsorted Bookmarks on top toolbar instead of Recent"
+  },
+  "li7": {
+    "message": "In this case, Recent Bookmarks will be shown on menu"
+  },
+  "vo": {
+    "message": "Visual settings"
+  },
+  "bo": {
+    "message": "Extension behavior settings"
+  }
+}

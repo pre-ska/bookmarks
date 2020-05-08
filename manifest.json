@@ -1,0 +1,42 @@
+{
+  "background": {
+    "persistent": false,
+    "scripts": ["background.js"]
+  },
+  "default_locale": "en",
+  "description": "__MSG_opis__",
+  "options_page": "options.html",
+  "developer": {
+    "name": "vux777"
+  },
+  "icons": {
+    "128": "img/bkm_128.png",
+    "16": "img/bkm_32.png",
+    "48": "img/bkm_48.png"
+  },
+  "manifest_version": 2,
+  "name": "V7 Bookmarks",
+  "permissions": [
+    "tabs",
+    "storage",
+    "bookmarks",
+    "chrome://favicon/",
+    "<all_urls>",
+    "management",
+    "downloads"
+  ],
+  "sidebar_action": {
+    "default_icon": "img/bkm.png",
+    "default_panel": "bkm.html",
+    "default_title": "V7 Bookmarks"
+  },
+  "commands": {
+    "_execute_sidebar_action": {
+      "suggested_key": {
+        "default": "Alt+B"
+      },
+      "description": "Open V7 Bookmarks"
+    }
+  },
+  "version": "4.8.0"
+}

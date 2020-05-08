@@ -1,0 +1,293 @@
+﻿{
+    "RC_B2": {
+        "message": "新しいウィンドウで開く"
+    },
+    "RC_B3": {
+        "message": "シークレットモードで開く"
+    },
+    "RC_B4": {
+        "message": "切り取り"
+    },
+    "RC_B5": {
+        "message": "コピー"
+    },
+    "RC_B6": {
+        "message": "ブックマークを編集"
+    },
+    "RC_B7": {
+        "message": "ブックマークを削除"
+    },
+    "RC_D1": {
+        "message": "Expand all"
+    },
+    "RC_D2": {
+        "message": "Collapse all"
+    },
+    "RC_D3": {
+        "message": "Flat search"
+    },
+    "RC_D4": {
+        "message": "Tree search"
+    },
+    "RC_EB2": {
+        "message": "保存"
+    },
+    "RC_EF1": {
+        "message": "フォルダ名"
+    },
+    "RC_EF3": {
+        "message": "キャンセル"
+    },
+    "RC_F1": {
+        "message": "ここにブックマーク"
+    },
+    "RC_F2": {
+        "message": "この下にブックマーク"
+    },
+    "RC_F3": {
+        "message": "ここにフォルダ作成"
+    },
+    "RC_F4": {
+        "message": "この下にフォルダ作成"
+    },
+    "RC_F5": {
+        "message": "フォルダから開く"
+    },
+    "RC_F10": {
+        "message": "フォルダ名を編集"
+    },
+    "RC_F11": {
+        "message": "削除"
+    },
+    "RC_M1": {
+        "message": "新しいブックマーク"
+    },
+    "RC_M2": {
+        "message": "新しいフォルダ"
+    },
+    "RC_M3": {
+        "message": "ブックマークを開く"
+    },
+    "RC_M8": {
+        "message": "貼り付け"
+    },
+    "RC_P1": {
+        "message": "新しいブックマーク"
+    },
+    "RC_R1": {
+        "message": "Undo delete"
+    },
+    "RC_S1": {
+        "message": "選択したブックマークを開く"
+    },
+    "RC_S6": {
+        "message": "選択したブックマークを削除"
+    },
+    "RC_SP": {
+        "message": "セパレーター"
+    },
+    "RC_T1": {
+        "message": "ゴミ箱を空にする"
+    },
+    "c10": {
+        "message": "10件以上のタブを開くときは確認する"
+    },
+    "changelog": {
+        "message": "変更ログ"
+    },
+    "cl": {
+        "message": "Close"
+    },
+    "closeF": {
+        "message": "Close other folders"
+    },
+    "closeWin": {
+        "message": "close app when opening bookmark"
+    },
+    "credits": {
+        "message": "クレジット"
+    },
+    "ctrlC": {
+        "message": "Ctrlキー + マウスクリック で、ブックマークを新しいアクティブタブで開く"
+    },
+    "doAc": {
+        "message": "選択したブックマークをドラッグアウトすると、新規アクティブタブで開く (デフォルトでは新規バックグラウンドタブで開きます)"
+    },
+    "donate": {
+        "message": "Donate"
+    },
+    "dupe": {
+        "message": "No duplicate bookmarks"
+    },
+    "dupeBkm": {
+        "message": " duplicate bookmarks"
+    },
+    "dupeMove": {
+        "message": "Move it to trash?"
+    },
+    "ex1": {
+        "message": "Operaのブックマーク階層をエクスポート"
+    },
+    "ex2": {
+        "message": "HTMLへエクスポート"
+    },
+    "ex3": {
+        "message": "Operaのブックマーク階層とブックマークアイコン(favicon)をエクスポート"
+    },
+    "ex4": {
+        "message": "faviconもエクスポート"
+    },
+    "ex5": {
+        "message": "import bookmarks and settings"
+    },
+    "ex6": {
+        "message": "Import"
+    },
+    "folderChildren": {
+        "message": "Show folder info with number of children"
+    },
+    "how_to": {
+        "message": "使い方..."
+    },
+    "kbs2": {
+        "message": "Keyboard navigation"
+    },
+    "li1": {
+        "message": "Ctrl か Shiftキーを押しっぱなしにすると、開かずに複数のブックマークを選択できます"
+    },
+    "li2": {
+        "message": "ブックマークだけでなく、フォルダを選ぶとフォルダ内のブックマークも選択できます"
+    },
+    "li3": {
+        "message": "単一のノードを追加する場合はCtrl + Shiftキー+クリックを使います"
+    },
+    "li4": {
+        "message": "複数のブックマークを開くときは、最後にアクティブタブが作成されます"
+    },
+    "li5": {
+        "message": "This doesn't apply to bookmark middle-click, drag-out or opening from context menu"
+    },
+    "mv1": {
+        "message": "重複ブックマークをゴミ箱に移動"
+    },
+    "mv2": {
+        "message": "スピードダイヤルとごみ箱は、この影響を受けません。"
+    },
+    "mv3": {
+        "message": "優先順位: ブックマークバー, マイフォルダ, 未整理, その他"
+    },
+    "mv4": {
+        "message": "重複ブックマークがブックマークバーや未整理にある場合、それらは削除されます"
+    },
+    "mv5": {
+        "message": "重複"
+    },
+    "mv6": {
+        "message": "重複フォルダを統合"
+    },
+    "my_addons": {
+        "message": "私のアドオン達"
+    },
+    "npp": {
+        "message": "コーディング開発環境 "
+    },
+    "obsc": {
+        "message": "現在のタブにシングルクリックでタブを開く"
+    },
+    "op": {
+        "message": "Opera_bookmarks.html"
+    },
+    "opis": {
+        "message": "あなたのサイドバー用ブックマークマネージャー"
+    },
+    "pnink": {
+        "message": "グラフィックス開発環境 "
+    },
+    "pr_10": {
+        "message": "Are you sure you want to open "
+    },
+    "pr_10_": {
+        "message": " tabs?"
+    },
+    "rcC": {
+        "message": "右クリックからのコピーで、ブックマークのURLをクリップボードに送る"
+    },
+    "recent": {
+        "message": "最新のブックマーク"
+    },
+    "reveal": {
+        "message": "Reveal in bookmarks"
+    },
+    "sUrl": {
+        "message": "ツールチップにURLを表示"
+    },
+    "set_sp1": {
+        "message": "Separators thickness"
+    },
+    "set_sp2": {
+        "message": "Separators spacing (above and under)"
+    },
+    "set_sp3": {
+        "message": "Separators color (click to change)"
+    },
+    "settings": {
+        "message": "設定"
+    },
+    "sort_m": {
+        "message": "Sort this panel"
+    },
+    "ss": {
+        "message": "すべてのタブをブックマークに追加"
+    },
+    "st3": {
+        "message": "並び替え"
+    },
+    "stats1": {
+        "message": "ブックマークに関する基本的な統計データ"
+    },
+    "stats2": {
+        "message": "統計を見る"
+    },
+    "theme": {
+        "message": "Dark theme"
+    },
+    "theme_": {
+        "message": "Light theme"
+    },
+    "today": {
+        "message": "Today"
+    },
+    "translators": {
+        "message": "Translators:"
+    },
+    "ud": {
+        "message": "Unknown date"
+    },
+    "v7sess": {
+        "message": "Save session in 'V7 Sessions', if existing"
+    },
+    "w1": {
+        "message": "Roots"
+    },
+    "w2": {
+        "message": "bookmarks"
+    },
+    "w3": {
+        "message": "folders"
+    },
+    "zoom": {
+        "message": "ズーム"
+    },
+  "showUns": {
+    "message": "Show Unsorted Bookmarks on top toolbar instead of Recent"
+  },
+  "li7": {
+    "message": "In this case, Recent Bookmarks will be shown on menu"
+  },
+  "vo": {
+    "message": "Visual settings"
+  },
+  "bo": {
+    "message": "Extension behavior settings"
+  }
+}

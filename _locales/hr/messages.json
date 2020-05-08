@@ -1,0 +1,320 @@
+{
+    "RC_B2": {
+        "message": "Otvori u novom prozoru"
+    },
+    "RC_B3": {
+        "message": "Otvori incognito"
+    },
+    "RC_B4": {
+        "message": "Izreži"
+    },
+    "RC_B5": {
+        "message": "Kopiraj"
+    },
+    "RC_B6": {
+        "message": "Uredi oznaku"
+    },
+    "RC_B7": {
+        "message": "Obriši oznaku"
+    },
+    "RC_D1": {
+        "message": "Otvori sve mape"
+    },
+    "RC_D2": {
+        "message": "Zatvori sve mape"
+    },
+    "RC_D3": {
+        "message": "Ravna pretraga"
+    },
+    "RC_D4": {
+        "message": "Razgranata pretraga"
+    },
+    "RC_EB2": {
+        "message": "Spremi"
+    },
+    "RC_EF1": {
+        "message": "Ime mape"
+    },
+    "RC_EF3": {
+        "message": "Poništi"
+    },
+    "RC_F1": {
+        "message": "Oznaka unutra"
+    },
+    "RC_F2": {
+        "message": "Oznaka nakon"
+    },
+    "RC_F3": {
+        "message": "Nova mapa unutra"
+    },
+    "RC_F4": {
+        "message": "Nova mapa nakon"
+    },
+    "RC_F5": {
+        "message": "Otvori iz mape"
+    },
+    "RC_F10": {
+        "message": "Uredi ime mape"
+    },
+    "RC_F11": {
+        "message": "Obriši"
+    },
+    "RC_M1": {
+        "message": "Nova oznaka"
+    },
+    "RC_M2": {
+        "message": "Nova mapa"
+    },
+    "RC_M3": {
+        "message": "Otvori oznaku"
+    },
+    "RC_M8": {
+        "message": "Zalijepi"
+    },
+    "RC_P1": {
+        "message": "Nova oznaka"
+    },
+    "RC_R1": {
+        "message": "Poništi brisanje"
+    },
+    "RC_S1": {
+        "message": "Otvori selektirane"
+    },
+    "RC_S6": {
+        "message": "Obriši selektirane"
+    },
+    "RC_SP": {
+        "message": "Separator"
+    },
+    "RC_T1": {
+        "message": "Isprazni otpad"
+    },
+    "c10": {
+        "message": "Potvrdi otvaranje 10 i više kartica"
+    },
+    "changelog": {
+        "message": "Izmjene"
+    },
+    "cl": {
+        "message": "Zatvori"
+    },
+    "closeF": {
+        "message": "Zatvori ostale mape"
+    },
+    "closeWin": {
+        "message": "Zatvori app prilikom otvaranja oznake"
+    },
+    "credits": {
+        "message": "Zasluge"
+    },
+    "ctrlC": {
+        "message": "Otvori oznaku u novoj aktivnoj kartici sa CTRL + klik"
+    },
+    "doAc": {
+        "message": "otvori oznake sa DRAG-OUT u novoj aktivnoj kartici (zadano je u pozadinskoj kartici)"
+    },
+    "donate": {
+        "message": "Donirajte"
+    },
+    "dupe": {
+        "message": "Nema duplih oznaka"
+    },
+    "dupeBkm": {
+        "message": " duplih oznaka"
+    },
+    "dupeMove": {
+        "message": "Premjestit u Otpad?"
+    },
+    "ex1": {
+        "message": "Izvezi Opera oznake"
+    },
+    "ex2": {
+        "message": "Izvezi u HTML"
+    },
+    "ex3": {
+        "message": "Izvezi Opera oznake sa favikonama"
+    },
+    "ex4": {
+        "message": "Izvezi sa favikonama"
+    },
+    "ex5": {
+        "message": "Uvezi oznake i postavke"
+    },
+    "ex6": {
+        "message": "Uvoz"
+    },
+    "folderChildren": {
+        "message": "Prikaži koliko svaka mapa sadrži elemenata"
+    },
+    "how_to": {
+        "message": "Upute..."
+    },
+    "kbs2": {
+        "message": "Keyboard navigation"
+    },
+    "li1": {
+        "message": "pritisnite CTRL ili SHIFT za selektiranje oznake bez otvaranja"
+    },
+    "li2": {
+        "message": "samo selektirane oznake, ne i oznake koje su u selektiranim mapama"
+    },
+    "li3": {
+        "message": "u ovom slučaju, za dodat jedan element u selekciju, koristite CTRL+SHIFT+klik"
+    },
+    "li4": {
+        "message": "prilikom otvaranja više oznaka, zadnja kreirana će biti aktivna"
+    },
+    "li5": {
+        "message": "ovo se ne odnosi na otvaranje oznake srednjim klikom, 'drag-out' ili otvaranjem sa kontekstnog izbornika"
+    },
+    "mv1": {
+        "message": "Premjesti duple oznake u Otpad"
+    },
+    "mv2": {
+        "message": "Brzo Biranje i Otpad će biti izostavljeni."
+    },
+    "mv3": {
+        "message": "Prioriteti su: Traka oznaka, Moje mape, Nesortirane oznake, Druge oznake."
+    },
+    "mv4": {
+        "message": "Ako je dupla oznaka u Traci oznaka i Nesortiranim oznakama, uklonjena će biti ona iz nesortiranih."
+    },
+    "mv5": {
+        "message": "Duplikati"
+    },
+    "mv6": {
+        "message": "Spoji duple mape"
+    },
+    "my_addons": {
+        "message": "Moji dodaci"
+    },
+    "npp": {
+        "message": "Sav kod je napisan u"
+    },
+    "obsc": {
+        "message": "Otvori oznaku u trenutnoj kartici sa JEDNIM KLIKOM"
+    },
+    "op": {
+        "message": "Opera_oznake.html"
+    },
+    "opis": {
+        "message": "Upravitelj oznaka u bočnoj traci"
+    },
+    "pnink": {
+        "message": "Sva grafika je napravljena sa"
+    },
+    "pr_10": {
+        "message": "Jeste li sigurni da želite otvoriti "
+    },
+    "pr_10_": {
+        "message": " kartica?"
+    },
+    "rcC": {
+        "message": "Desni klik KOPIRAJ će također kopirati URL-ove oznaka u međuspremnik"
+    },
+    "recent": {
+        "message": "Nedavne oznake"
+    },
+    "reveal": {
+        "message": "Prikaži u oznakama"
+    },
+    "sUrl": {
+        "message": "Prikaži URL u tooltipu"
+    },
+    "set_sp1": {
+        "message": "Debljina separatora"
+    },
+    "set_sp2": {
+        "message": "Razmak separatora (iznad i ispod)"
+    },
+    "set_sp3": {
+        "message": "Boja separatora (klik za promjenu)"
+    },
+    "settings": {
+        "message": "Postavke"
+    },
+    "sort_m": {
+        "message": "Sortiraj ovaj panel"
+    },
+    "ss": {
+        "message": "Spremi sve kartice"
+    },
+    "st3": {
+        "message": "Sortiraj unutar"
+    },
+    "stats1": {
+        "message": "Osnovna statistika o oznakama"
+    },
+    "stats2": {
+        "message": "Statistika"
+    },
+    "theme": {
+        "message": "Tamna tema"
+    },
+    "theme_": {
+        "message": "Svijetla tema"
+    },
+    "today": {
+        "message": "Danas"
+    },
+    "translators": {
+        "message": "Prevoditelji:"
+    },
+    "ud": {
+        "message": "Nepoznat datum"
+    },
+    "v7sess": {
+        "message": "Spremi sesiju u 'V7 Sessions', ako je instalirana"
+    },
+    "w1": {
+        "message": "Osnovne mape"
+    },
+    "w2": {
+        "message": "oznake"
+    },
+    "w3": {
+        "message": "mape"
+    },
+    "zoom": {
+        "message": "Zumiranje"
+    },
+	"showUns": {
+		"message": "Prikaži Nesortirane Oznake na gornjoj alatnoj traci umjesto Nedavnih Oznaka"
+	},
+	"li7": {
+		"message": "U ovom slučaju, Nedavne Oznake će biti prikazane unutar izbornika"
+	},
+	"vo": {
+		"message": "Vizualne postavke"
+	},
+	"bo": {
+		"message": "Osnovne postavke"
+	},
+  "bkmColl": {
+    "message": "Kolekcija_oznaka.html"
+  },
+  "expColl": {
+    "message": "Izvezi kolekciju"
+  },
+  "srt_t": {
+    "message": "po Nazivu"
+  },
+  "srt_d": {
+    "message": "po Datumu"
+  },
+  "srt_do": {
+    "message": "po Domeni"
+  },
+  "searchEnter": {
+    "message": "Pretraga sa Enter"
+  },
+  "li8": {
+    "message": "Pretraga će započeti nakon što pritisnete tipku Enter (minimalno 2 slova)"
+  },
+  "theme2": {
+    "message": "Primjeni tamnu temu na panel i ostale elemente"
+  },
+  "li6": {
+    "message": "Ovo radi samo u kombinaciji sa tamnom temom"
+  }
+}

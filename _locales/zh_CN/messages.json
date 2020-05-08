@@ -1,0 +1,293 @@
+{
+    "RC_B2": {
+        "message": "新窗口中打开"
+    },
+    "RC_B3": {
+        "message": "后台窗口打开"
+    },
+    "RC_B4": {
+        "message": "剪切"
+    },
+    "RC_B5": {
+        "message": "复制"
+    },
+    "RC_B6": {
+        "message": "编辑书签"
+    },
+    "RC_B7": {
+        "message": "删除书签"
+    },
+    "RC_D1": {
+        "message": "Expand all"
+    },
+    "RC_D2": {
+        "message": "Collapse all"
+    },
+    "RC_D3": {
+        "message": "Flat search"
+    },
+    "RC_D4": {
+        "message": "Tree search"
+    },
+    "RC_EB2": {
+        "message": "保存"
+    },
+    "RC_EF1": {
+        "message": "文件夹名称"
+    },
+    "RC_EF3": {
+        "message": "取消"
+    },
+    "RC_F1": {
+        "message": "书签内"
+    },
+    "RC_F2": {
+        "message": "书签后"
+    },
+    "RC_F3": {
+        "message": "新文件夹内"
+    },
+    "RC_F4": {
+        "message": "新文件夹后"
+    },
+    "RC_F5": {
+        "message": "从文件夹打开"
+    },
+    "RC_F10": {
+        "message": "编辑文件夹名称"
+    },
+    "RC_F11": {
+        "message": "删除"
+    },
+    "RC_M1": {
+        "message": "新建书签"
+    },
+    "RC_M2": {
+        "message": "新建文件夹"
+    },
+    "RC_M3": {
+        "message": "打开书签"
+    },
+    "RC_M8": {
+        "message": "粘贴"
+    },
+    "RC_P1": {
+        "message": "新建书签"
+    },
+    "RC_R1": {
+        "message": "Undo delete"
+    },
+    "RC_S1": {
+        "message": "打开选定"
+    },
+    "RC_S6": {
+        "message": "删除选定"
+    },
+    "RC_SP": {
+        "message": "New separator"
+    },
+    "RC_T1": {
+        "message": "清空垃圾桶"
+    },
+    "c10": {
+        "message": "确认打开10个以上标签页"
+    },
+    "changelog": {
+        "message": "更新日志"
+    },
+    "cl": {
+        "message": "Close"
+    },
+    "closeF": {
+        "message": "Close other folders"
+    },
+    "closeWin": {
+        "message": "close app when opening bookmark"
+    },
+    "credits": {
+        "message": "致谢"
+    },
+    "ctrlC": {
+        "message": "通过 CTRL+单击 打开书签为新的活动标签"
+    },
+    "doAc": {
+        "message": "通过 拖拽 打开书签为新的活动标签 (默认为新的后台标签)"
+    },
+    "donate": {
+        "message": "Donate"
+    },
+    "dupe": {
+        "message": "No duplicate bookmarks"
+    },
+    "dupeBkm": {
+        "message": " duplicate bookmarks"
+    },
+    "dupeMove": {
+        "message": "Move it to trash?"
+    },
+    "ex1": {
+        "message": "导出 Opera 书签目录树"
+    },
+    "ex2": {
+        "message": "导出为 HTML"
+    },
+    "ex3": {
+        "message": "导出 Opera 书签目录树（包含收藏）"
+    },
+    "ex4": {
+        "message": "导出收藏"
+    },
+    "ex5": {
+        "message": "Import bookmarks and settings"
+    },
+    "ex6": {
+        "message": "Import"
+    },
+    "folderChildren": {
+        "message": "Show folder info with number of children"
+    },
+    "how_to": {
+        "message": "如何..."
+    },
+    "kbs2": {
+        "message": "Keyboard navigation"
+    },
+    "li1": {
+        "message": "按住 Ctrl 或 Shift 键选定书签(s) 而不打开"
+    },
+    "li2": {
+        "message": "仅选定书签，而不选定文件夹"
+    },
+    "li3": {
+        "message": "在这种情况下，使用 CTRL+SHIFT+单击 添加单选到选定"
+    },
+    "li4": {
+        "message": "打开多个书签时，最后打开的将被激活"
+    },
+    "li5": {
+        "message": "This doesn't apply to bookmark middle-click, drag-out or opening from context menu"
+    },
+    "mv1": {
+        "message": "移动重复的书签到垃圾桶"
+    },
+    "mv2": {
+        "message": "快速拨号面板和垃圾桶不会受此影响。"
+    },
+    "mv3": {
+        "message": "重点是：书签栏，我的文件夹，未分类，其他。"
+    },
+    "mv4": {
+        "message": "如果重复书签在书签栏和未分类，其将从未分类删除。"
+    },
+    "mv5": {
+        "message": "重复"
+    },
+    "mv6": {
+        "message": "合并重复的文件夹"
+    },
+    "my_addons": {
+        "message": "我的扩展"
+    },
+    "npp": {
+        "message": "所有编码完成中 "
+    },
+    "obsc": {
+        "message": "通过 单击 在当前标签中打开书签"
+    },
+    "op": {
+        "message": "Opera_bookmarks.html"
+    },
+    "opis": {
+        "message": "在侧边栏显示书签管理器"
+    },
+    "pnink": {
+        "message": "所有的图形是由 "
+    },
+    "pr_10": {
+        "message": "Are you sure you want to open "
+    },
+    "pr_10_": {
+        "message": " tabs?"
+    },
+    "rcC": {
+        "message": "右击复制 也将书签URL复制到剪贴板"
+    },
+    "recent": {
+        "message": "近期书签"
+    },
+    "reveal": {
+        "message": "Reveal in bookmarks"
+    },
+    "sUrl": {
+        "message": "工具提示中显示URL"
+    },
+    "set_sp1": {
+        "message": "Separators thickness"
+    },
+    "set_sp2": {
+        "message": "Separators spacing (above and under)"
+    },
+    "set_sp3": {
+        "message": "Separators color (click to change)"
+    },
+    "settings": {
+        "message": "设置"
+    },
+    "sort_m": {
+        "message": "Sort this panel"
+    },
+    "ss": {
+        "message": "将所有标签加入书签"
+    },
+    "st3": {
+        "message": "排序"
+    },
+    "stats1": {
+        "message": "书签统计"
+    },
+    "stats2": {
+        "message": "统计数据"
+    },
+    "theme": {
+        "message": "Dark theme"
+    },
+    "theme_": {
+        "message": "Light theme"
+    },
+    "today": {
+        "message": "Today"
+    },
+    "translators": {
+        "message": "翻译:"
+    },
+    "ud": {
+        "message": "Unknown date"
+    },
+    "v7sess": {
+        "message": "保存会话到 'V7 Sessions', 如果存在"
+    },
+    "w1": {
+        "message": "Roots"
+    },
+    "w2": {
+        "message": "bookmarks"
+    },
+    "w3": {
+        "message": "folders"
+    },
+    "zoom": {
+        "message": "缩放"
+    },
+  "showUns": {
+    "message": "Show Unsorted Bookmarks on top toolbar instead of Recent"
+  },
+  "li7": {
+    "message": "In this case, Recent Bookmarks will be shown on menu"
+  },
+  "vo": {
+    "message": "Visual settings"
+  },
+  "bo": {
+    "message": "Extension behavior settings"
+  }
+}

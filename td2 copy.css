@@ -1,0 +1,143 @@
+body {
+  -webkit-user-drag: none;
+  -webkit-user-select: none;
+  overflow: hidden;
+  font-size: 13px;
+  margin: 0;
+  padding: 0;
+  background-color: #707272;
+  color: #fff;
+}
+
+#panel {
+  position: absolute;
+  display: none;
+  padding-bottom: 80px;
+  top: 36px;
+  left: 0px;
+  right: 0px;
+  bottom: 36px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  background-color: #596f82;
+}
+
+/***************************************************************************/
+
+.bNor:hover,
+.fNor:hover {
+  background-color: #2a343d;
+}
+
+.fch {
+  position: absolute;
+  top: 3px;
+  right: 3px;
+  height: 18px;
+  padding: 0 5px 0 5px;
+  line-height: 18px;
+  overflow: hidden;
+  font-size: 12px;
+  text-align: center;
+  color: #fff;
+  background-color: #2a343d;
+  border-radius: 2px;
+  pointer-events: none;
+}
+
+.drb {
+  position: relative;
+  height: 20px;
+  line-height: 20px;
+  padding-left: 10px;
+  overflow: hidden;
+  font-weight: 500;
+  text-align: center;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  -webkit-user-select: none;
+  -webkit-user-drag: none;
+  border-bottom: 1px solid #a9adad;
+  cursor: default;
+}
+
+.inpN {
+  position: absolute;
+  left: 8px;
+  right: 15px;
+  height: 22px;
+  line-height: 22px;
+  font-size: 16px;
+  outline: none;
+  border: none;
+  background-color: #3f4040;
+  color: #fff;
+  border-bottom: 1px solid #999999;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  width: 250px;
+}
+
+.promptC {
+  position: absolute;
+  display: none;
+  outline: 0;
+  left: 5px;
+  width: 260px;
+  color: #fff;
+  background-color: #3f4040;
+  border: 1px solid #808080;
+  box-shadow: 4px 4px 2px -2px rgba(0, 0, 0, 0.45);
+  font-size: 18px;
+  padding: 8px;
+  -webkit-animation: root 0.15s ease-out;
+}
+
+.ctxM {
+  position: absolute;
+  display: none;
+  outline: 0;
+  background-color: #2a343d;
+  color: #fff;
+  border: 1px solid #404040;
+  box-shadow: 4px 4px 2px -2px rgba(0, 0, 0, 0.45);
+  overflow: hidden;
+  padding: 4px 0 4px 0;
+}
+
+.ctxN:hover {
+  background-color: #708396;
+}
+
+/***********************************************/
+
+.rF {
+  position: relative;
+  height: 24px;
+  right: 2px;
+  line-height: 24px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  background-color: #b4daf2;
+  -webkit-user-select: none;
+  -webkit-user-drag: none;
+  font-weight: 500;
+  text-align: center;
+  cursor: pointer;
+  margin: 5px;
+  border: 1px solid #404040;
+  color: #404040;
+}
+
+/****************************************************************************************/
+/****************************************************************************************/
+/****************************************************************************************/
+/****************************************************************************************/
+/****************************************************************************************/
+/****************************************************************************************/
+/****************************************************************************************/
+/****************************************************************************************/
+/****************************************************************************************/
+/****************************************************************************************/

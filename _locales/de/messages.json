@@ -1,0 +1,320 @@
+{
+   "RC_B2": {
+      "message": "In neuem Fenster..."
+   },
+   "RC_B3": {
+      "message": "In privatem Fenster.."
+   },
+   "RC_B4": {
+      "message": "Ausschneiden"
+   },
+   "RC_B5": {
+      "message": "Kopieren"
+   },
+   "RC_B6": {
+      "message": "Bearbeiten"
+   },
+   "RC_B7": {
+      "message": "Löschen"
+   },
+   "RC_D1": {
+      "message": "Alle ausklappen"
+   },
+   "RC_D2": {
+      "message": "Alle einklappen"
+   },
+   "RC_D3": {
+      "message": "Normale Suche"
+   },
+   "RC_D4": {
+      "message": "Suche mit Ordnerstruktur"
+   },
+   "RC_EB2": {
+      "message": "Speichern"
+   },
+   "RC_EF1": {
+      "message": "Ordnername"
+   },
+   "RC_EF3": {
+      "message": "Abbrechen"
+   },
+   "RC_F1": {
+      "message": "Lesezeichen darin"
+   },
+   "RC_F10": {
+      "message": "Bearbeiten"
+   },
+   "RC_F11": {
+      "message": "Löschen"
+   },
+   "RC_F2": {
+      "message": "Lesezeichen danach"
+   },
+   "RC_F3": {
+      "message": "Ordner darin"
+   },
+   "RC_F4": {
+      "message": "Ordner danach"
+   },
+   "RC_F5": {
+      "message": "In neuem Tab öffnen"
+   },
+   "RC_M1": {
+      "message": "Neues Lesezeichen"
+   },
+   "RC_M2": {
+      "message": "Neuer Ordner"
+   },
+   "RC_M3": {
+      "message": "In neuem Tab öffnen"
+   },
+   "RC_M8": {
+      "message": "Einfügen"
+   },
+   "RC_P1": {
+      "message": "Neues Lesezeichen"
+   },
+   "RC_R1": {
+      "message": "Rückgängig: löschen"
+   },
+   "RC_S1": {
+      "message": "In neuem Tab öffnen"
+   },
+   "RC_S6": {
+      "message": "Löschen"
+   },
+   "RC_SP": {
+      "message": "Neue Trennlinie"
+   },
+   "RC_T1": {
+      "message": "Papierkorb leeren"
+   },
+   "bkmColl": {
+      "message": "Lesezeichen_Sammlung.html"
+   },
+   "bo": {
+      "message": "Verhaltenseinstellungen"
+   },
+   "c10": {
+      "message": "Bestätigung beim Öffnen von 10 und mehr Tabs"
+   },
+   "changelog": {
+      "message": "Changelog"
+   },
+   "cl": {
+      "message": "Schließen"
+   },
+   "closeF": {
+      "message": "andere Ordner schließen"
+   },
+   "closeWin": {
+      "message": "Erweiterung schließen, wenn ein Lesezeichen geöffnet wird"
+   },
+   "credits": {
+      "message": "Credits"
+   },
+   "ctrlC": {
+      "message": "öffne Lesezeichen in neuem aktivem Tab mit gedrückter STRG-Taste"
+   },
+   "doAc": {
+      "message": "öffne Lesezeichen beim HERAUSZIEHEN in neuem Tab (Standard: im Hintergrund)"
+   },
+   "donate": {
+      "message": "Spenden"
+   },
+   "dupe": {
+      "message": "Keine doppelten Lesezeichen"
+   },
+   "dupeBkm": {
+      "message": " doppelte Lesezeichen"
+   },
+   "dupeMove": {
+      "message": "In den Papierkorb verschieben?"
+   },
+   "ex1": {
+      "message": "Exportieren der Opera Lesezeichen-Struktur"
+   },
+   "ex2": {
+      "message": "HTML-Export"
+   },
+   "ex3": {
+      "message": "Exportieren der Opera Lesezeichen-Struktur mit Favicons"
+   },
+   "ex4": {
+      "message": "HTML-Export mit Favicons"
+   },
+   "ex5": {
+      "message": "Lesezeichen und Einstellungen importieren"
+   },
+   "ex6": {
+      "message": "Importieren"
+   },
+   "expColl": {
+      "message": "Sammlung exportieren"
+   },
+   "folderChildren": {
+      "message": "Zeige Ordnerinfo mit Anzahl der Lesezeichen und Unterordner"
+   },
+   "how_to": {
+      "message": "Hilfe"
+   },
+   "kbs2": {
+      "message": "Tastatur-Navigation"
+   },
+   "li1": {
+      "message": "STRG oder SHIFT gedrückt halten um einzelne Lesezeichen auszuwählen"
+   },
+   "li2": {
+      "message": "nur von ausgewählten Lesezeichen, nicht diejenigen in ausgewählten Ordnern"
+   },
+   "li3": {
+      "message": "STRG + SHIFT gedrückt halten um einzelne Lesezeichen auszuwählen"
+   },
+   "li4": {
+      "message": "beim Öffnen mehrerer Lesezeichen, wird das zuletzt erstellte aktiv"
+   },
+   "li5": {
+      "message": "nicht beim Öffnen über Mittelklick, HERAUSZIEHEN oder Kontextmenü"
+   },
+   "li6": {
+      "message": "funktioniert nur in Kombination mit dem dunklen Design"
+   },
+   "li7": {
+      "message": "neueste Lesezeichen werden als Menüpunkt angezeigt"
+   },
+   "li8": {
+      "message": "die Suche startet nur nach drücken der Eingabetaste (mindestens 2 Zeichen)"
+   },
+   "mv1": {
+      "message": "Doppelte Lesezeichen in den Papierkorb verschieben"
+   },
+   "mv2": {
+      "message": "Schnellwahl und Papierkorb sind davon nicht betroffen."
+   },
+   "mv3": {
+      "message": "Priorität verläuft wie folgt: Lesezeichenleiste, Meine Ordner, Unsortiere, Andere."
+   },
+   "mv4": {
+      "message": "z.B. wenn es ein doppeltes Lesezeichen in der Lesezeichenleiste und bei den Unsortierten gibt, wird es aus den Unsortierten entfernt."
+   },
+   "mv5": {
+      "message": "Duplikate löschen"
+   },
+   "mv6": {
+      "message": "Zusammenführen doppelter Ordner"
+   },
+   "my_addons": {
+      "message": "Meine Apps"
+   },
+   "npp": {
+      "message": "Das gesamte Programm wurde geschrieben in: "
+   },
+   "obsc": {
+      "message": "öffne Lesezeichen im aktuellen Tab mit EINFACHKLICK"
+   },
+   "op": {
+      "message": "Opera_bookmarks.html"
+   },
+   "opis": {
+      "message": "Lesezeichen-Manager in der Seitenleiste"
+   },
+   "pnink": {
+      "message": "Alle Grafiken wurden erstellt in: "
+   },
+   "pr_10": {
+      "message": "Sind Sie sicher, dass Sie "
+   },
+   "pr_10_": {
+      "message": " Tabs öffnen möchten?"
+   },
+   "rcC": {
+      "message": "Rechtsklick KOPIEREN kopiert auch die Lesezeichen-URL in die Zwischenablage"
+   },
+   "recent": {
+      "message": "Neueste Lesezeichen"
+   },
+   "reveal": {
+      "message": "In den Lesezeichen anzeigen"
+   },
+   "sUrl": {
+      "message": "zeige URL in Kurzinfo"
+   },
+   "searchEnter": {
+      "message": "Suche mit Enter bestätigen"
+   },
+   "set_sp1": {
+      "message": "Trennlinien Dicke"
+   },
+   "set_sp2": {
+      "message": "Trennlienen Abstand (darüber und darunter)"
+   },
+   "set_sp3": {
+      "message": "Trennlienen Farbe (zum Ändern klicken)"
+   },
+   "settings": {
+      "message": "Einstellungen"
+   },
+   "showUns": {
+      "message": "Zeige unsortierte Lesezeichen in der oberen Toolbar anstatt der Neuesten"
+   },
+   "sort_m": {
+      "message": "Dieses Panel sortieren"
+   },
+   "srt_d": {
+      "message": "nach Datum"
+   },
+   "srt_do": {
+      "message": "nach Adresse"
+   },
+   "srt_t": {
+      "message": "nach Name"
+   },
+   "ss": {
+      "message": "Lesezeichen von allen Tabs erstellen"
+   },
+   "st3": {
+      "message": "Sortieren im Ordner"
+   },
+   "stats1": {
+      "message": "Einfache Statistik der Lesezeichen"
+   },
+   "stats2": {
+      "message": "Statistik anzeigen"
+   },
+   "theme": {
+      "message": "Dunkles Design aktivieren"
+   },
+   "theme2": {
+      "message": "Dunkles Design auch auf das Panel und andere Elemente anwenden"
+   },
+   "theme_": {
+      "message": "Helles Design aktivieren"
+   },
+   "today": {
+      "message": "Heute"
+   },
+   "translators": {
+      "message": "Übersetzer:"
+   },
+   "ud": {
+      "message": "Unbekanntes Datum"
+   },
+   "v7sess": {
+      "message": "speichere Sitzungen in 'V7 Sessions' (wenn installiert)"
+   },
+   "vo": {
+      "message": "Visuelle Einstellungen"
+   },
+   "w1": {
+      "message": "Herkunft"
+   },
+   "w2": {
+      "message": "Lesezeichen"
+   },
+   "w3": {
+      "message": "Ordner"
+   },
+   "zoom": {
+      "message": "Zoom"
+   }
+}

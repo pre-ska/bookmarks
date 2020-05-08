@@ -1,0 +1,320 @@
+{
+   "RC_B2": {
+      "message": "Otwórz w nowym oknie"
+   },
+   "RC_B3": {
+      "message": "Otwórz prywatnie"
+   },
+   "RC_B4": {
+      "message": "Wytnij"
+   },
+   "RC_B5": {
+      "message": "Kopiuj"
+   },
+   "RC_B6": {
+      "message": "Edytuj zakładkę"
+   },
+   "RC_B7": {
+      "message": "Usuń zakładkę"
+   },
+   "RC_D1": {
+      "message": "Rozwiń wszystkie"
+   },
+   "RC_D2": {
+      "message": "Zwiń wszystkie"
+   },
+   "RC_D3": {
+      "message": "Lista wyników wyszukiwania"
+   },
+   "RC_D4": {
+      "message": "Drzewo wyników wyszukiwania"
+   },
+   "RC_EB2": {
+      "message": "Zapisz"
+   },
+   "RC_EF1": {
+      "message": "Nazwa folderu"
+   },
+   "RC_EF3": {
+      "message": "Anuluj"
+   },
+   "RC_F1": {
+      "message": "Zakładka wewnątrz"
+   },
+   "RC_F10": {
+      "message": "Edytuj nazwę folderu"
+   },
+   "RC_F11": {
+      "message": "Usuń"
+   },
+   "RC_F2": {
+      "message": "Zakładka za tym"
+   },
+   "RC_F3": {
+      "message": "Nowy folder wewnątrz"
+   },
+   "RC_F4": {
+      "message": "Nowy folder za tym"
+   },
+   "RC_F5": {
+      "message": "Otwórz z folderu"
+   },
+   "RC_M1": {
+      "message": "Nowa zakładka"
+   },
+   "RC_M2": {
+      "message": "Nowy folder"
+   },
+   "RC_M3": {
+      "message": "Otwórz zakładkę"
+   },
+   "RC_M8": {
+      "message": "Wklej"
+   },
+   "RC_P1": {
+      "message": "Nowa zakładka"
+   },
+   "RC_R1": {
+      "message": "Cofnij usunięcie"
+   },
+   "RC_S1": {
+      "message": "Otwórz wybrane"
+   },
+   "RC_S6": {
+      "message": "Usuń wybrane"
+   },
+   "RC_SP": {
+      "message": "Nowy separator"
+   },
+   "RC_T1": {
+      "message": "Opróżnij kosz"
+   },
+   "bkmColl": {
+      "message": "Kolekcja_zakladek.html"
+   },
+   "bo": {
+      "message": "Ustawienia działania rozszerzenia"
+   },
+   "c10": {
+      "message": "Potwierdź otwarcie 10 lub więcej kart"
+   },
+   "changelog": {
+      "message": "Lista zmian"
+   },
+   "cl": {
+      "message": "Zamknij"
+   },
+   "closeF": {
+      "message": "Automatycznie zwijaj inne foldery"
+   },
+   "closeWin": {
+      "message": "Zamknij panel przy otwieraniu zakładki"
+   },
+   "credits": {
+      "message": "Zasługi"
+   },
+   "ctrlC": {
+      "message": "Otwórz zakładki w nowej aktywnej karcie przy CTRL + klik"
+   },
+   "doAc": {
+      "message": "Otwórz przeciągnięte zakładki w nowej aktywnej karcie (domyślnie na karcie w tle)"
+   },
+   "donate": {
+      "message": "Wsparcie"
+   },
+   "dupe": {
+      "message": "Brak zduplikowanych zakładek"
+   },
+   "dupeBkm": {
+      "message": " zduplikowanych zakładek"
+   },
+   "dupeMove": {
+      "message": "Przenieść do kosza?"
+   },
+   "ex1": {
+      "message": "Eksportuj drzewo zakładek Opery"
+   },
+   "ex2": {
+      "message": "Eksportuj do HTML"
+   },
+   "ex3": {
+      "message": "Eksportuj drzewo zakładek Opery wraz z ikonami"
+   },
+   "ex4": {
+      "message": "Eksportuj z ikonami"
+   },
+   "ex5": {
+      "message": "Importuj zakładki i ustawienia"
+   },
+   "ex6": {
+      "message": "Importuj"
+   },
+   "expColl": {
+      "message": "Eksportuj kolekcję"
+   },
+   "folderChildren": {
+      "message": "Pokaż informacje folderu z ilością elementów"
+   },
+   "how_to": {
+      "message": "Poradnik"
+   },
+   "kbs2": {
+      "message": "Nawigacja klawiaturą"
+   },
+   "li1": {
+      "message": "Przytrzymaj CTRL lub SHIFT, aby zaznaczać zakładki bez otwierania"
+   },
+   "li2": {
+      "message": "Tylko zaznaczone zakładki, nie zakładki z zaznaczonych folderów"
+   },
+   "li3": {
+      "message": "W takim przypadku, aby dodać jeden węzeł do wyboru, użyj CTRL+SHIFT+klik"
+   },
+   "li4": {
+      "message": "Przy otwieraniu wielu zakładek, ostatnia utworzona zostanie aktywowana"
+   },
+   "li5": {
+      "message": "Nie ma to zastosowania dla zakładek otwartych środkowym kliknięciem, przeciągniętych lub otwartych z menu kontekstowego"
+   },
+   "li6": {
+      "message": "Działa to tylko w połączeniu z ciemnym motywem"
+   },
+   "li7": {
+      "message": "W tym przypadku Ostatnie zakładki zostaną wyświetlone w menu"
+   },
+   "li8": {
+      "message": "Wyszukiwanie zostanie zainicjowane dopiero po naciśnięciu klawisza Enter (minimalnie 2 znaki)"
+   },
+   "mv1": {
+      "message": "Przenieś zduplikowane zakładki do kosza"
+   },
+   "mv2": {
+      "message": "Nie dotyczy to Szybkiego wybierania i Kosza"
+   },
+   "mv3": {
+      "message": "Priorytety to kolejno: Pasek zakładek, Moje foldery, Nieuporządkowane, Inne."
+   },
+   "mv4": {
+      "message": "Jeśli zduplikowana zakładka znajduje się na Pasku zakładek i w Nieuporządkowanych, zostanie usunięta z Nieuporządkowanych."
+   },
+   "mv5": {
+      "message": "Duplikaty"
+   },
+   "mv6": {
+      "message": "Połącz zduplikowane foldery"
+   },
+   "my_addons": {
+      "message": "Więcej ode mnie"
+   },
+   "npp": {
+      "message": "Całe kodowanie jest wykonane w "
+   },
+   "obsc": {
+      "message": "Otwórz zakładki w bieżącej karcie przy POJEDYNCZYM KLIKNIĘCIU"
+   },
+   "op": {
+      "message": "Opera_zakładki.html"
+   },
+   "opis": {
+      "message": "Menedżer zakładek w bocznym panelu"
+   },
+   "pnink": {
+      "message": "Wszystkie grafiki są wykonane w "
+   },
+   "pr_10": {
+      "message": "Czy na pewno chcesz otworzyć "
+   },
+   "pr_10_": {
+      "message": " zakładek?"
+   },
+   "rcC": {
+      "message": "Kopiowanie pod prawym przyciskiem myszy także kopiuje URL zakładek do schowka"
+   },
+   "recent": {
+      "message": "Ostatnie zakładki"
+   },
+   "reveal": {
+      "message": "Odsłoń w zakładkach"
+   },
+   "sUrl": {
+      "message": "Pokaż adres w dymku"
+   },
+   "searchEnter": {
+      "message": "Szukaj po Enterze"
+   },
+   "set_sp1": {
+      "message": "Szerokość separatora"
+   },
+   "set_sp2": {
+      "message": "Odstępy separatora (powyżej i poniżej)"
+   },
+   "set_sp3": {
+      "message": "Kolor separatorów (kliknij, aby zmienić)"
+   },
+   "settings": {
+      "message": "Ustawienia"
+   },
+   "showUns": {
+      "message": "Pokaż Nieuporządkowane zakładki na górnym panelu zamiast Ostatnich zakładek"
+   },
+   "sort_m": {
+      "message": "Sortuj ten panel"
+   },
+   "srt_d": {
+      "message": "wg Daty"
+   },
+   "srt_do": {
+      "message": "wg Domeny"
+   },
+   "srt_t": {
+      "message": "wg Tytułu"
+   },
+   "ss": {
+      "message": "Wszystkie karty do zakładek"
+   },
+   "st3": {
+      "message": "Sortuj wewnątrz"
+   },
+   "stats1": {
+      "message": "Podstawowe statystyki zakładek"
+   },
+   "stats2": {
+      "message": "Statystyki"
+   },
+   "theme": {
+      "message": "Ciemny motyw"
+   },
+   "theme2": {
+      "message": "Zastosuj ciemny motyw do panela, a także do innych elementów"
+   },
+   "theme_": {
+      "message": "Jasny motyw"
+   },
+   "today": {
+      "message": "Dzisiaj"
+   },
+   "translators": {
+      "message": "Tłumacze:"
+   },
+   "ud": {
+      "message": "Nieznana data"
+   },
+   "v7sess": {
+      "message": "Zapisz sesję w 'V7 Sessions', jeśli istnieje"
+   },
+   "vo": {
+      "message": "Ustawienia wizualne"
+   },
+   "w1": {
+      "message": "Źródło"
+   },
+   "w2": {
+      "message": "zakładek"
+   },
+   "w3": {
+      "message": "folderów"
+   },
+   "zoom": {
+      "message": "Skala"
+   }
+}
