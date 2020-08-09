@@ -316,5 +316,8 @@
   },
   "li6": {
     "message": "This works only in combination with dark theme"
+  },
+  "li9": {
+    "message": "Click reload button on top of the sidebar, to see the changes"
   }
 }

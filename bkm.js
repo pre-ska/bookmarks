@@ -52,8 +52,10 @@ let rcSafe = {
   separator: 88,
   multiSel: 170,
   altMenu: 150,
-  topM: "80px",
+  topM: "80px"
 };
+
+// let colorSchemeDark = window.matchMedia("(prefers-color-scheme: dark)");
 
 ("use_strict");
 
@@ -151,10 +153,10 @@ const prva = () => {
       gData = r.gData;
       let wT;
 
-      if (gData.t_ === "td2.css") wT = "bkm2.css";
-      else wT = "bkm.css";
+      // if (gData.t_ === "td2.css") wT = "bkm2.css";
+      // else wT = "bkm.css";
 
-      setTheme(wT);
+      // setTheme(wT);
 
       if (gData.scope !== "per-origin")
         zS.style.backgroundImage = 'url("img/per_tab.svg")';
@@ -506,9 +508,9 @@ const _st = () => {
   s.href = chrome.extension.getURL(gData.t_);
   document.head.appendChild(s);
 
-  if (gData.t_ === "tl.css")
-    d_d_9.textContent = chrome.i18n.getMessage("theme");
-  else d_d_9.textContent = chrome.i18n.getMessage("theme_");
+  // if (gData.t_ === "tl.css")
+  //   d_d_9.textContent = chrome.i18n.getMessage("theme");
+  // else d_d_9.textContent = chrome.i18n.getMessage("theme_");
 };
 
 const _saveG = () => {
@@ -993,7 +995,7 @@ function rootCl(e) {
       l.animate([{ maxHeight: "100%" }, { maxHeight: "0%" }], {
         duration: 200,
         steps: 2,
-        webkitAnimationTimingFunction: "ease-out",
+        webkitAnimationTimingFunction: "ease-out"
       }).onfinish = () => {
         l.style.display = "none";
       };
@@ -1003,7 +1005,7 @@ function rootCl(e) {
       l.animate([{ maxHeight: "0%" }, { maxHeight: "100%" }], {
         duration: 200,
         steps: 2,
-        webkitAnimationTimingFunction: "ease-out",
+        webkitAnimationTimingFunction: "ease-out"
       });
     }
   }
@@ -1225,13 +1227,13 @@ function _sr_f_mu(e) {
           fl.animate([{ maxHeight: "0%" }, { maxHeight: "100%" }], {
             duration: 150,
             steps: 2,
-            webkitAnimationTimingFunction: "ease-out",
+            webkitAnimationTimingFunction: "ease-out"
           });
         } else {
           fl.animate([{ maxHeight: "100%" }, { maxHeight: "0%" }], {
             duration: 200,
             steps: 2,
-            webkitAnimationTimingFunction: "ease-out",
+            webkitAnimationTimingFunction: "ease-out"
           }).onfinish = () => {
             fl.style.display = "none";
             _f.innerHTML = fc_;
@@ -1292,7 +1294,7 @@ const _sr_f_ctx_L = e => {
             parentId: f.id,
             index: 0,
             title: t[0].title,
-            url: t[0].url,
+            url: t[0].url
           });
         });
       }
@@ -1469,6 +1471,10 @@ const _sr_0 = () => {
 /************************************************/
 
 window.onload = () => {
+  // matchMedia("(prefers-color-scheme: dark)").addListener(mq => {
+  //   colorSchemeDark = mq.matches;
+  // });
+
   prva();
   panel.addEventListener("scroll", _p_sc);
   panel.addEventListener("mousewheel", _p_wh);
@@ -1519,7 +1525,7 @@ const tmo = () => {
       separator: 96,
       multiSel: 185,
       altMenu: 216,
-      topM: "55px",
+      topM: "55px"
     };
   } else if (tl === "ja") {
     rcSafe = {
@@ -1532,7 +1538,7 @@ const tmo = () => {
       separator: 75,
       multiSel: 218,
       altMenu: 172,
-      topM: "80px",
+      topM: "80px"
     };
   } else if (tl === "de") {
     rcSafe = {
@@ -1545,7 +1551,7 @@ const tmo = () => {
       separator: 95,
       multiSel: 165,
       altMenu: 178,
-      topM: "40px",
+      topM: "40px"
     };
   } else if (tl === "hr") {
     rcSafe = {
@@ -1558,7 +1564,7 @@ const tmo = () => {
       separator: 88,
       multiSel: 190,
       altMenu: 135,
-      topM: "80px",
+      topM: "80px"
     };
   } else if (tl === "pt-BR") {
     rcSafe = {
@@ -1571,7 +1577,7 @@ const tmo = () => {
       separator: 88,
       multiSel: 182,
       altMenu: 163,
-      topM: "80px",
+      topM: "80px"
     };
   } else if (tl === "sr") {
     rcSafe = {
@@ -1584,7 +1590,7 @@ const tmo = () => {
       separator: 103,
       multiSel: 227,
       altMenu: 155,
-      topM: "55px",
+      topM: "55px"
     };
   } else if (tl === "zh-CN") {
     rcSafe = {
@@ -1597,7 +1603,7 @@ const tmo = () => {
       separator: 75,
       multiSel: 125,
       altMenu: 143,
-      topM: "80px",
+      topM: "80px"
     };
   } else if (tl === "it") {
     rcSafe = {
@@ -1610,7 +1616,7 @@ const tmo = () => {
       separator: 95,
       multiSel: 210,
       altMenu: 145,
-      topM: "40px",
+      topM: "40px"
     };
   } else if (tl === "pl") {
     rcSafe = {
@@ -1623,7 +1629,7 @@ const tmo = () => {
       separator: 76,
       multiSel: 185,
       altMenu: 156,
-      topM: "80px",
+      topM: "80px"
     };
   }
 
@@ -1694,8 +1700,8 @@ const tmo = () => {
 		console.log(b);
 	}); */
 
-  if (gData.t_ === "td.css" || gData.t_ === "td2.css")
-    d_d_9.textContent = chrome.i18n.getMessage("theme_");
+  // if (gData.t_ === "td.css" || gData.t_ === "td2.css")
+  //   d_d_9.textContent = chrome.i18n.getMessage("theme_");
 
   r_srt_1.innerHTML =
     '<span style="font-size:16px;">&#8664;&nbsp;&nbsp; </span>' +
@@ -1831,7 +1837,7 @@ function _f_mu(e) {
           temp_ul.animate([{ maxHeight: "0%" }, { maxHeight: "100%" }], {
             duration: 150,
             steps: 2,
-            webkitAnimationTimingFunction: "ease-out",
+            webkitAnimationTimingFunction: "ease-out"
           });
 
           if (last === "bookmarks_bar") {
@@ -1891,7 +1897,7 @@ function _f_mu(e) {
           temp_ul.animate([{ maxHeight: "0%" }, { maxHeight: "100%" }], {
             duration: 150,
             steps: 2,
-            webkitAnimationTimingFunction: "ease-out",
+            webkitAnimationTimingFunction: "ease-out"
           });
 
           if (
@@ -2024,8 +2030,8 @@ function _f_dl(e) {
 }
 
 function _f_dd(e) {
-  /*THIS*/ // drop na folder
-  this.style.borderBottom = "";
+  console.log("drop on folder"); // drop na folder
+  /*THIS*/ this.style.borderBottom = "";
   this.style.backgroundColor = "";
 
   let vu = e.dataTransfer.getData("URL");
@@ -2059,7 +2065,7 @@ function _f_dd(e) {
               parentId: this.parentId,
               index: this.index + 1,
               url: vu,
-              title: tl,
+              title: tl
             },
             btn => {
               makeRoot(null, 1);
@@ -2131,18 +2137,18 @@ function _f_dd(e) {
               if (res[i].parentId !== prt)
                 chrome.bookmarks.move(res[i].id, {
                   parentId: prt,
-                  index: ind + 1,
+                  index: ind + 1
                 });
               else {
                 if (res[i].index > ind)
                   chrome.bookmarks.move(res[i].id, {
                     parentId: prt,
-                    index: ind + 1,
+                    index: ind + 1
                   });
                 else {
                   chrome.bookmarks.move(res[i].id, {
                     parentId: prt,
-                    index: ind + 1,
+                    index: ind + 1
                   });
                   ind--;
                 }
@@ -2255,7 +2261,7 @@ const rc_f = e => {
           parentId: rcFN.parentId,
           index: rcFN.index + 1,
           title: tabs[0].title,
-          url: tabs[0].url,
+          url: tabs[0].url
         },
         () => {
           makeRoot(null, 1);
@@ -2750,7 +2756,7 @@ function _b_dd(e) {
             parentId: this.parentId,
             index: this.index + 1,
             url: vu,
-            title: tl,
+            title: tl
           },
           btn => {
             makeRoot(null, 1);
@@ -2780,18 +2786,18 @@ function _b_dd(e) {
             if (res[i].parentId !== prt)
               chrome.bookmarks.move(res[i].id, {
                 parentId: prt,
-                index: ind + 1,
+                index: ind + 1
               });
             else {
               if (res[i].index > ind)
                 chrome.bookmarks.move(res[i].id, {
                   parentId: prt,
-                  index: ind + 1,
+                  index: ind + 1
                 });
               else {
                 chrome.bookmarks.move(res[i].id, {
                   parentId: prt,
-                  index: ind + 1,
+                  index: ind + 1
                 });
                 ind--;
               }
@@ -2870,7 +2876,7 @@ const rc_b = e => {
           parentId: rcBN.parentId,
           index: rcBN.index + 1,
           title: t[0].title,
-          url: t[0].url,
+          url: t[0].url
         },
         () => {
           makeRoot(null, 1);
@@ -2937,7 +2943,7 @@ const _sfnv = a => {
         parentId: rcBN.parentId,
         index: rcBN.index + 1,
         title: p_nf_1.value,
-        url: null,
+        url: null
       },
       () => {
         makeRoot(null, 1);
@@ -2986,7 +2992,7 @@ const _sfnv = a => {
         parentId: rcFN.parentId,
         index: rcFN.index + 1,
         title: p_nf_1.value,
-        url: null,
+        url: null
       },
       () => {
         makeRoot(null, 1);
@@ -3212,7 +3218,7 @@ const _p_d = e => {
           for (let i = 0, l = mba.length; i < l; i++)
             chrome.bookmarks.move(mba[i], {
               parentId: rid,
-              index: indCalc + i,
+              index: indCalc + i
             });
 
           makeRoot();
@@ -3243,7 +3249,7 @@ const _p_L = e => {
             parentId: rid,
             index: cl,
             title: chrome.i18n.getMessage("RC_M2"),
-            url: null,
+            url: null
           },
           () => {
             makeRoot(null, 1);
@@ -3266,7 +3272,7 @@ const addSep = a => {
         index: b[0].index + 1,
         title:
           "¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤",
-        url: tmpU,
+        url: tmpU
       },
       () => {
         makeRoot();
@@ -3417,7 +3423,7 @@ function _s_dd(e) {
             parentId: this.parentId,
             index: this.index + 1,
             url: vu,
-            title: tl,
+            title: tl
           },
           btn => {
             makeRoot(null, 1);
@@ -3447,18 +3453,18 @@ function _s_dd(e) {
             if (res[i].parentId !== prt)
               chrome.bookmarks.move(res[i].id, {
                 parentId: prt,
-                index: ind + 1,
+                index: ind + 1
               });
             else {
               if (res[i].index > ind)
                 chrome.bookmarks.move(res[i].id, {
                   parentId: prt,
-                  index: ind + 1,
+                  index: ind + 1
                 });
               else {
                 chrome.bookmarks.move(res[i].id, {
                   parentId: prt,
-                  index: ind + 1,
+                  index: ind + 1
                 });
                 ind--;
               }
@@ -3605,7 +3611,7 @@ const _recBkm = () => {
                 let bd = d3.toLocaleString(navigator.language, {
                   weekday: "long",
                   month: "long",
-                  day: "numeric",
+                  day: "numeric"
                 });
 
                 if (!dani[bd]) {
@@ -4740,7 +4746,7 @@ const _z_t = a => {
     0.6666,
     0.5,
     0.33334,
-    0.25,
+    0.25
   ];
   let f = 1;
 
@@ -4815,12 +4821,12 @@ const _nN = a => {
   a.animate(
     [
       { backgroundColor: "rgba(220, 0, 220, 1)" },
-      { backgroundColor: "rgba(0, 0, 0, 0)" },
+      { backgroundColor: "rgba(0, 0, 0, 0)" }
     ],
     {
       duration: 1000,
       steps: 2,
-      webkitAnimationTimingFunction: "ease-in",
+      webkitAnimationTimingFunction: "ease-in"
     }
   ).onfinish = () => {
     a.style.backgroundColor = "";
@@ -4832,12 +4838,12 @@ const _zF = () => {
   zi.animate(
     [
       { transform: "translateY(0px)", opacity: "1" },
-      { transform: "translateY(50px)", opacity: "0" },
+      { transform: "translateY(50px)", opacity: "0" }
     ],
     {
       duration: 100,
       steps: 2,
-      webkitAnimationTimingFunction: "ease-in",
+      webkitAnimationTimingFunction: "ease-in"
     }
   ).onfinish = () => {
     zi.style.display = "none";
@@ -4854,12 +4860,12 @@ const _del_anim = (a, q) => {
       { transform: "translateX(-10px)", opacity: "1" },
       { transform: "translateX(-15px)", opacity: "1" },
       { transform: "translateX(-20px)", opacity: "1" },
-      { transform: "translateX(100px)", opacity: "0" },
+      { transform: "translateX(100px)", opacity: "0" }
     ],
     {
       duration: 500,
       steps: 5,
-      webkitAnimationTimingFunction: "ease-in",
+      webkitAnimationTimingFunction: "ease-in"
     }
   ).onfinish = () => {
     a.parentNode.removeChild(a);
@@ -4873,7 +4879,7 @@ const _clL = a => {
   a.animate([{ maxHeight: "100%" }, { maxHeight: "0%" }], {
     duration: 200,
     steps: 2,
-    webkitAnimationTimingFunction: "ease-out",
+    webkitAnimationTimingFunction: "ease-out"
   }).onfinish = () => {
     a.style.display = "none";
     a.previousSibling.getElementsByClassName("fav")[0].innerHTML = fc_;
@@ -5104,27 +5110,23 @@ function f_a_(e) {
       if (id === "f_a_1") setCl();
       else if (id === "f_a_4") chrome.runtime.sendMessage({ s: "x" });
       else if (id === "d_d_9") {
-        if (gData.t_ === "tl.css") {
-          let a = "td.css";
-
-          if (gData.t_2) a = "td2.css";
-
-          gData.t_ = a;
-
-          chrome.storage.local.set({ gData: gData }, () => {
-            chrome.runtime.sendMessage({ th: a });
-            setTimeout(_st, 300);
-            //window.close();
-          });
-        } else {
-          gData.t_ = "tl.css";
-
-          chrome.storage.local.set({ gData: gData }, () => {
-            chrome.runtime.sendMessage({ th: "tl.css" });
-            setTimeout(_st, 300);
-            //window.close();
-          });
-        }
+        // if (gData.t_ === "tl.css") {
+        //   let a = "td.css";
+        //   if (gData.t_2) a = "td2.css";
+        //   gData.t_ = a;
+        //   chrome.storage.local.set({ gData: gData }, () => {
+        //     chrome.runtime.sendMessage({ th: a });
+        //     setTimeout(_st, 300);
+        //     //window.close();
+        //   });
+        // } else {
+        //   gData.t_ = "tl.css";
+        //   chrome.storage.local.set({ gData: gData }, () => {
+        //     chrome.runtime.sendMessage({ th: "tl.css" });
+        //     setTimeout(_st, 300);
+        //     //window.close();
+        //   });
+        // }
       } else if (id === "d_d_4")
         chrome.tabs.create({ url: "opera://settings/importData" });
       else if (id === "d_d_5") chrome.runtime.sendMessage({ nf: "x" });
@@ -5277,7 +5279,7 @@ const _c_paste_p = (a, b) => {
         parentId: a,
         index: iCt,
         title: copyB[i].t,
-        url: copyB[i].u,
+        url: copyB[i].u
       });
       iCt++;
     }
@@ -5306,7 +5308,7 @@ const _c_paste_f = a => {
         parentId: a,
         index: 0,
         title: copyB[i].t,
-        url: copyB[i].u,
+        url: copyB[i].u
       });
 
     makeRoot(null, 1);
@@ -5342,7 +5344,7 @@ const _c_paste_b = (_p, _i) => {
         parentId: _p,
         index: ind,
         title: copyB[i].t,
-        url: copyB[i].u,
+        url: copyB[i].u
       });
 
     makeRoot(null, 1);
@@ -5377,7 +5379,7 @@ const openSel = (_t, _in, _sr, _fr) => {
           chrome.tabs.create({
             url: rcBN.url,
             active: !1,
-            index: t[0].index + 1,
+            index: t[0].index + 1
           });
         });
       else
@@ -5411,7 +5413,7 @@ const openSel = (_t, _in, _sr, _fr) => {
               chrome.tabs.create({
                 url: selBkm[j],
                 active: !1,
-                index: t[0].index + 1,
+                index: t[0].index + 1
               });
           });
         else
@@ -5424,7 +5426,7 @@ const openSel = (_t, _in, _sr, _fr) => {
             chrome.tabs.create({
               url: selBkm[j],
               active: !1,
-              index: t[0].index + 1,
+              index: t[0].index + 1
             });
         });
       else chrome.windows.create({ url: selBkm, focused: !!1, incognito: _in });
@@ -6112,12 +6114,12 @@ const _revSel = a => {
     tg.animate(
       [
         { backgroundColor: "rgba(0, 0, 0, 0)" },
-        { backgroundColor: "rgba(109, 138, 175, 1)" },
+        { backgroundColor: "rgba(109, 138, 175, 1)" }
       ],
       {
         duration: 800,
         steps: 2,
-        webkitAnimationTimingFunction: "ease-out",
+        webkitAnimationTimingFunction: "ease-out"
       }
     ).onfinish = () => {
       if (tg.className === "bNor") tg.className = "bSel";
@@ -6143,12 +6145,12 @@ const _flashBtn = (a, b) => {
       { backgroundColor: "rgba(255, 174, 0, 1)" },
       { backgroundColor: "rgba(255, 174, 0, 0)" },
       { backgroundColor: "rgba(255, 174, 0, 1)" },
-      { backgroundColor: "rgba(255, 174, 0, 0)" },
+      { backgroundColor: "rgba(255, 174, 0, 0)" }
     ],
     {
       duration: 700,
       steps: 6,
-      webkitAnimationTimingFunction: "ease-out",
+      webkitAnimationTimingFunction: "ease-out"
     }
   ).onfinish = () => {
     tg.style.backgroundColor = "";
@@ -6220,18 +6222,16 @@ chrome.runtime.onMessage.addListener(m => {
       zoomNmb.innerText = m.intZoom + "%";
     }
   } else if (m.th) {
-    if (m.w) {
-      // provjera prozora
-    }
-
-    gData.t_ = m.th;
-    let wT;
-
-    if (gData.t_ === "td2.css") wT = "bkm2.css";
-    else wT = "bkm.css";
-    setTheme(wT);
-
-    _st();
+    // if (m.w) {
+    //   // provjera prozora
+    // }
+    // gData.t_ = m.th;
+    // let wT;
+    // console.log(m);
+    // if (gData.t_ === "td2.css") wT = "bkm2.css";
+    // else wT = "bkm.css";
+    // setTheme(wT);
+    // _st();
   } else if (m.gD) {
     if (cWin !== m.w_) {
       if (m.s_) zoomSc(1);

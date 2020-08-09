@@ -168,9 +168,9 @@ setTimeout(() => {
     if (gData.sessions) lcDnD8.className = "boxA boxC";
     if (OF) lcDnD10.className = "boxA boxC";
     if (gData.wClose) lcDnD11.className = "boxA boxC";
-    if (gData.t_2) lcDnD15.className = "boxA boxC";
-    if (gData.t_ === "td.css" || gData.t_ === "td2.css")
-      lcDnD12.className = "boxA boxC";
+    // if (gData.t_2) lcDnD15.className = "boxA boxC";
+    // if (gData.t_ === "td.css" || gData.t_ === "td2.css")
+    //   lcDnD12.className = "boxA boxC";
     if (gData.folCh) lcDnD13.className = "boxA boxC";
     if (gData.uns) lcDnD14.className = "boxA boxC";
     if (gData.srEnt) lcDnD16.className = "boxA boxC";
@@ -387,7 +387,7 @@ function kb_click(e) {
     tDiv.animate([{ opacity: 1 }, { opacity: 0 }], {
       duration: 100,
       steps: 2,
-      webkitAnimationTimingFunction: "ease-out",
+      webkitAnimationTimingFunction: "ease-out"
     }).onfinish = () => {
       kb_div.style.display = "none";
     };
@@ -405,12 +405,12 @@ const sColor_ = () => {
       [
         { opacity: "1", transform: "translateX(0px)" },
         { opacity: "1", transform: "translateX(40px)" },
-        { opacity: "0", transform: "translateX(-80px)" },
+        { opacity: "0", transform: "translateX(-80px)" }
       ],
       {
         duration: 300,
         steps: 2,
-        webkitAnimationTimingFunction: "cubic-bezier(0.25,0.1,0.25,1)",
+        webkitAnimationTimingFunction: "cubic-bezier(0.25,0.1,0.25,1)"
       }
     ).onfinish = () => {
       sColorMenu.style.display = "none";
@@ -426,12 +426,12 @@ const sColorMenu_ = e => {
       [
         { opacity: "1", transform: "translateX(0px)" },
         { opacity: "1", transform: "translateX(30px)" },
-        { opacity: "0", transform: "translateX(-80px)" },
+        { opacity: "0", transform: "translateX(-80px)" }
       ],
       {
         duration: 300,
         steps: 2,
-        webkitAnimationTimingFunction: "cubic-bezier(0.25,0.1,0.25,1)",
+        webkitAnimationTimingFunction: "cubic-bezier(0.25,0.1,0.25,1)"
       }
     ).onfinish = () => {
       sColor.style.backgroundColor = sep.b;
@@ -449,12 +449,12 @@ const LMCl = e => {
   if (e.target.id === "o_btn")
     chrome.tabs.create({
       url: "https://addons.opera.com/extensions/details/v7-bookmarks/",
-      active: !!1,
+      active: !!1
     });
   else if (e.target.id === "f_btn")
     chrome.tabs.create({
       url: "https://www.facebook.com/V7-apps-1575838779402126/",
-      active: !!1,
+      active: !!1
     });
   else if (e.target.id === "t_btn")
     chrome.tabs.create({ url: "https://twitter.com/v7_apps", active: !!1 });
@@ -482,7 +482,7 @@ const mCl = e => {
         chrome.tabs.create({
           url:
             "https://addons.opera.com/search/?type=extensions&developer=vux777",
-          active: !!1,
+          active: !!1
         });
     });
   } else {
@@ -562,7 +562,7 @@ const wr = () => {
         {
           duration: 200,
           steps: 2,
-          webkitAnimationTimingFunction: "ease-out",
+          webkitAnimationTimingFunction: "ease-out"
         }
       ).onfinish = () => {
         LM.style.display = "none";
@@ -645,14 +645,14 @@ document.addEventListener("DOMContentLoaded", () => {
       chrome.tabs.create({
         url:
           "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4LFHZT6R4K6CA",
-        active: !0,
+        active: !0
       });
     });
     pp_link1.addEventListener("click", () => {
       chrome.tabs.create({
         url:
           "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4LFHZT6R4K6CA",
-        active: !0,
+        active: !0
       });
     });
 
